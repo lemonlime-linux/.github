@@ -1,2 +1,7 @@
-# .github
-Community health files (contributing guidelines, code of conduct, issue templates) for Lemonlime Linux.
+# Lemonlime Linux Community Health Files
+
+This repository contains organizational policies, guidelines, and standards that apply across all Lemonlime Linux projects.  
+Includes:
+- Contributing guide
+- Code of conduct
+- (Future) issue and pull request templates
