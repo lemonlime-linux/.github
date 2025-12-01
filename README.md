@@ -5,3 +5,7 @@ Includes:
 - Contributing guide
 - Code of conduct
 - (Future) issue and pull request templates
+
+## Project Roadmap
+
+See the [Lemonlime Linux v0.1 Roadmap](https://github.com/lemonlime-linux/docs/issues/1) for high-level goals, milestones, and progress across all repositories.
