@@ -1,11 +1,17 @@
 # Lemonlime Linux Community Health Files
 
-This repository contains organizational policies, guidelines, and standards that apply across all Lemonlime Linux projects.  
-Includes:
-- Contributing guide
-- Code of conduct
-- (Future) issue and pull request templates
+This repository contains shared policies, guidelines, and standards for all Lemonlime Linux projects.
+
+## Contents
+- Contributing guidelines  
+- Code of Conduct  
+- Issue and pull request templates (future)
+
+## Contributing
+Refer to the contribution guidelines in this repository for organization-wide standards.
 
 ## Project Roadmap
+See the [Lemonlime Linux v0.1 Roadmap](https://github.com/lemonlime-linux/docs/issues/1).
 
-See the [Lemonlime Linux v0.1 Roadmap](https://github.com/lemonlime-linux/docs/issues/1) for high-level goals, milestones, and progress across all repositories.
+## License
+[MIT License](LICENSE)
